@@ -205,3 +205,6 @@ main { max-width: var(--wrap); margin: 0 auto; padding: 0 var(--gut); }
 /* molniya */
 html, body, h1, h2, h3, p, li { hyphens: none; -webkit-hyphens: none; }
 .nw { white-space: nowrap; }
+
+/* molniya-clip */
+html, body { overflow-x: clip; }
